@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beba Água</string>
+    <string name="tx_question">Você sabe quanta água precisa beber?</string>
+    <string name="tx_weight">Insira seu peso ( Ex: 60.5 )</string>
+    <string name="tx_result">Você precisa beber:</string>
+    <string name="result_value">x copos por dia</string>
+</resources>
